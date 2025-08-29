@@ -103,7 +103,7 @@
         <div class="audio-container">
             <p class="audio-title"></p>
             <audio controls>
-                <source src="https://vk.com/audio315635262_456239756">
+                <source src="https://downloader.disk.yandex.ru/direct/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2FДиректор%20лев.mp3">
                 Ваш браузер не поддерживает аудио элемент.
             </audio>
         </div>
