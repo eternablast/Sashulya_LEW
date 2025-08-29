@@ -103,7 +103,7 @@
         <div class="audio-container">
             <p class="audio-title"></p>
             <audio controls>
-                <source src="https://www.mediafire.com/file/gkzn769n7beyul7/%25D0%2594%25D0%25B8%25D1%2580%25D0%25B5%25D0%25BA%25D1%2582%25D0%25BE%25D1%2580_%25D0%25BB%25D0%25B5%25D0%25B2.mp3/file">
+                <source src="https://vk.com/audio315635262_456239756">
                 Ваш браузер не поддерживает аудио элемент.
             </audio>
         </div>
