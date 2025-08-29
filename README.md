@@ -103,7 +103,7 @@
         <div class="audio-container">
             <p class="audio-title"></p>
             <audio controls>
-                <source src="\\storemsk.illan.local\UsersDocs_MSK$\a.ilyina\Desktop\тайничок\lev.mp3" type="audio/mpeg">
+                <source src="https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2FДиректор%20лев.mp3">
                 Ваш браузер не поддерживает аудио элемент.
             </audio>
         </div>
